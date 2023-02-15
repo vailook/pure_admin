@@ -1,3 +1,11 @@
+##分支
+
+1.master 最初的代码
+
+2.cus 客户发货
+![图片](https://user-images.githubusercontent.com/33211287/218914015-e390388c-f588-4903-97cc-467424d6bed7.png)
+
+
 # pure_admin
 
 简体中文 | [English](./README-en-US.md)
